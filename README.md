@@ -50,6 +50,10 @@ The workbook contains:
 
 ---
 
+## Project Screenshot
+
+![Customer Gross Margin Chart](Images/Customer_Gross_Margin_Chart.png)
+
 ## Author
 
 **Teja Ekkurthi**
